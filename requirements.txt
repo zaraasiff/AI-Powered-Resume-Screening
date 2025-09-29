@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+PyMuPDF
+python-docx
+docx2txt
+google-generativeai
+requests
